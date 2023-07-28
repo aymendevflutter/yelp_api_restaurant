@@ -1,0 +1,31 @@
+<!-- dialog_rating_price.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/rating_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:foreground="?attr/selectableItemBackground"
+        android:gravity="center"
+        android:paddingVertical="16dp"
+        android:text="Rating"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/price_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:foreground="?attr/selectableItemBackground"
+        android:gravity="center"
+        android:paddingVertical="16dp"
+        android:text="Price"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+</LinearLayout>
