@@ -21,9 +21,9 @@ Welcome to "YOUR_NAME Yelp," a restaurant finder application that allows you to 
 6. **Favorites Section**: To access your favorite restaurants, swipe right on the screen to open the navigation drawer and choose the "Favorites" option. The navigation drawer will also include a header displaying the application's name.
 
 <p align="center">
-  <img src="https://github.com/aymendevflutter/restaurant/assets/132212405/a53fe7ba-9aef-4785-945d-7e7fbd78dce5" alt="res1" width="300" />
-  <img src="https://github.com/aymendevflutter/restaurant/assets/132212405/ad159498-eb60-473e-a495-4e12335c9445" alt="res2" width="300" />
-  <img src="https://github.com/aymendevflutter/restaurant/assets/132212405/afa4581e-83f7-415b-8168-b8db0cae3378" alt="res3" width="300" />
+  <img src="https://github.com/aymendevflutter/yelp_api_restaurant3/assets/132212405/dd0331f1-cd0b-45df-94f8-2f208d4a36e6" alt="res1" width="300" />
+  <img src="https://github.com/aymendevflutter/yelp_api_restaurant3/assets/132212405/9e292e8b-547c-4611-9afa-27a2c5b11363" alt="res2" width="300" />
+  <img src="https://github.com/aymendevflutter/yelp_api_restaurant3/assets/132212405/286ab14c-1156-4394-b35a-bd31a8471527" alt="res3" width="300" />
 </p>
 
 
